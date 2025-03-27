@@ -29,7 +29,7 @@ Click Load unpacked and select the ai-accessibility-assistant folder.
 
 ### 🛠 Technologies Used
 
-Chrome Extension APIs: TTS, Storage, Scripting
+Chrome Extension APIs: TTS, Storage, Scripting.
 
 AI Models:
 
@@ -39,6 +39,35 @@ openai/clip-vit-base-patch32 (Image Captioning)
 
 Frontend: HTML5, CSS3, Vanilla JavaScript
 
-### Screenshots
+---
+
+### 🌟 Screenshots
+---
+
+ 📜**Chrome extension** 
+ 
+
+![Screenshot 2025-03-16 182408](https://github.com/user-attachments/assets/83789c26-b1e7-4142-948e-4ebabd2174f7)
+
+---
+
+
+ 📜**Summarize Page** 
+ 
+
+![Screenshot 2025-03-16 182436](https://github.com/user-attachments/assets/37e5793a-272e-4d64-a120-b55c4eb39b50)
+
+---
+
+
+ 📜**Increase Font Size** 
+ 
+
+![Screenshot 2025-03-16 182506](https://github.com/user-attachments/assets/92e82943-b668-4d61-9001-a9f1d09c5d36)
+
+
+
+
+
 
 
