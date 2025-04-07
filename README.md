@@ -41,7 +41,7 @@ Frontend: HTML5, CSS3, Vanilla JavaScript
 
 ---
 
-### 🌟 Screenshots
+### 🌟Screenshots
 ---
 
  📜**Chrome extension** 
